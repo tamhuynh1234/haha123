@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>TUTI'sCloud</title>
+  <title>TUTI's Cloud</title>
  </head>
  <body>
  	<style type="text/css">
