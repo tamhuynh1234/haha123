@@ -3,7 +3,7 @@
 <body>
 <style type="text/css">
     body{
-      background: blue;
+      background: white;
 </style>
 <h1>DELETE DATA TO DATABASE</h1>
 <form>
