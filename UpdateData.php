@@ -3,7 +3,7 @@
 <body>
 <style type="text/css">
     body{
-      background: green;
+      background: blue;
 </style>
 <h1>UPDATE DATA TO DATABASE</h1>
 <form>
