@@ -11,7 +11,7 @@
 </form>
 <?php
 ini_set('display_errors', 1);
-echo "ATNs SYSTEM";
+echo "TUTI's SYSTEM";
 ?>
 <?php
 if (empty(getenv("DATABASE_URL"))){
