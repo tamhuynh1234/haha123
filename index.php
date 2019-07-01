@@ -5,7 +5,7 @@
  <body>
  	<style type="text/css">
  		body{
- 			background: green;
+ 			background: blue;
  		}
  		#content {
  			width: 100%;
