@@ -5,7 +5,7 @@
  <body>
  	<style type="text/css">
  		body{
- 			background: #ADD8E6;
+ 			background: green;
  		}
  		#content {
  			width: 100%;
@@ -26,8 +26,7 @@
  <h1>HELLO EVERYBODY, THIS IS TUTI'S CLOUD APP</h1>
  
  <div id="content">
- 	<div class="picture">
- 	<img src="https://www.google.com.vn/search?hl=vi&biw=1872&bih=1001&tbm=isch&sa=1&ei=T4QZXb28EsKroATppquwCw&q=h%C3%ACnh+n%E1%BB%81n&oq=h%C3%ACnh+n%E1%BB%81n&gs_l=img.3..0j0i67j0l8.13343.14514..15700...6.0..0.99.1166.14......0....1..gws-wiz-img.LgFerW_Pac4#imgrc=ES066tz3E8Xl9M:">
+
  	</div>
  	<div class="menu">
  	<h2>SOME DEMO FUNCTIONS:</h2>
