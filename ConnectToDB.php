@@ -3,7 +3,7 @@
 <body>
 <style type="text/css">
     body{
-      background: blue;
+      background: white;
 </style>
 <h1>VIEW DATABASE </h1>
 <form>
